@@ -1,0 +1,3 @@
+config:
+  kalaha-game:
+    stones-count: 4

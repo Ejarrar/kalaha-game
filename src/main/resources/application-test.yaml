@@ -1,0 +1,3 @@
+﻿config:
+  game:
+    stones-count: 4
